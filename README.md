@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- Animated title -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Hadiah+%F0%9F%91%8B;CS+Sophomore+%40+FAST+NUCES;I+don't+just+use+tools+%E2%80%94+I+understand+them;Where+code+meets+craft." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Hadiah+%F0%9F%91%8B;CS+Sophomore+%40+FAST+NUCES;I+don't+just+use+tools+%E2%80%94+I+understand+them;Where+code+meets+craft." alt="Typing SVG" />
 
 <br/>
 
-*"I don't just want to play the game — I want to know how the engine renders the pixels."*
+> *"I'm not here to just make things work — I'm here to know why they do."*
 
 </div>
 
@@ -13,9 +12,9 @@
 
 ## 🧠 Who Am I
 
-A Computer Science sophomore who treats learning like a main quest. My philosophy is simple: **software should have a soul.** I care less about how many things I've built and more about how deeply I understand them — the *why* behind every concept, the *how* beneath every abstraction.
+A Computer Science sophomore who treats learning like a main quest. My philosophy: **You must feel connected to the stuff you build.**
 
-Whether it's low-level memory management in C++, the math inside a neural net, or the logic flow of a compiler — I want to understand it from the inside out.
+I care less about how many things I've built and more about how deeply I understand them — the *why* behind every concept, the *how* beneath every abstraction. Whether it's low-level memory management in C++, the math inside a neural net, or why a compiler rejects your code — I want to understand it from the inside out.
 
 I also believe code and art aren't opposites. I bring the same attention to detail I'd put into a design into the systems I build.
 
@@ -25,13 +24,12 @@ I also believe code and art aren't opposites. I bring the same attention to deta
 
 ## 🎯 Current Mission
 
-```
-> Loading quest log...
-
-  [ACTIVE]   ████████████░░░  Deep diving into Machine Learning — the math, the models, the meaning
-  [ACTIVE]   ██████░░░░░░░░░  Strengthening fundamentals in C++ & systems thinking
-  [ONGOING]  ████████████████  Learning how things break — so I know why they work
-```
+| Status | Quest |
+|--------|-------|
+| 🟣 `[ACTIVE]` | Deep diving into Machine Learning — the math, the models, the meaning |
+| 🟣 `[ACTIVE]` | Strengthening C++ fundamentals & systems thinking |
+| 🔵 `[ONGOING]` | Learning how things break — so I know exactly why they work |
+| 🌱 `[NEXT]` | Combining ML concepts with creative/visual projects |
 
 ---
 
@@ -46,16 +44,19 @@ I also believe code and art aren't opposites. I bring the same attention to deta
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Web & Data**
+**Web & Databases**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+**ML & Data**
+
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-**Tools & Creative**
+**Creative Tools**
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
@@ -66,11 +67,13 @@ I also believe code and art aren't opposites. I bring the same attention to deta
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Hadiah-Batool&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=Hadiah-Batool&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadiah-Batool&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165"/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Hadiah-Batool&theme=dracula&hide_border=false)
+<br/><br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadiah-Batool&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://nirzak-streak-stats.vercel.app/?user=Hadiah-Batool&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -80,7 +83,7 @@ I also believe code and art aren't opposites. I bring the same attention to deta
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=Hadiah-Batool&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=Hadiah-Batool&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
 </div>
 
@@ -88,8 +91,8 @@ I also believe code and art aren't opposites. I bring the same attention to deta
 
 ## 🌐 Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hadiah-batool)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hdbatool779@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hadiah-batool)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hdbatool779@gmail.com)
 
 ---
 
