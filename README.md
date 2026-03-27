@@ -63,31 +63,19 @@ I also believe code and art aren't opposites. I bring the same attention to deta
 
 ---
 
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hadiah-Batool&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="165"/>
+<img src="https://gh-stats-cards.vercel.app/api/cards/stats?username=Hadiah-Batool&theme=tokyonight" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadiah-Batool&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165"/>
-
+<img src="https://gh-stats-cards.vercel.app/api/cards/most-commit-language?username=Hadiah-Batool&theme=tokyonight" height="165"/>
 <br/><br/>
-
 <img src="https://nirzak-streak-stats.vercel.app/?user=Hadiah-Batool&theme=tokyonight&hide_border=true" />
-
 </div>
 
----
-
-## 🔝 Top Contributed Repos
-
+🔝 Top Contributed Repos
 <div align="center">
-
 <img src="https://github-contributor-stats.vercel.app/api?username=Hadiah-Batool&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-
 </div>
-
----
 
 ## 🌐 Find Me
 
