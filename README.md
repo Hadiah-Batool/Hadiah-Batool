@@ -61,14 +61,7 @@ I also believe code and art aren't opposites. I bring the same attention to deta
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
----
 
-
-
-🔝 Top Contributed Repos
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Hadiah-Batool&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</div>
 
 ## 🌐 Find Me
 
