@@ -61,7 +61,21 @@ I also believe code and art aren't opposites. I bring the same attention to deta
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hadiah-batool&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=A9B4C2&ring_color=C084FC" alt="Hadiah's GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadiah-batool&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=C084FC&currStreakLabel=C084FC" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiah-batool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=A9B4C2" alt="Top Languages" />
+
+</div>
+
+---
 
 ## 🌐 Find Me
 
