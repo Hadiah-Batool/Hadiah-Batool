@@ -4,7 +4,7 @@
 
 <br/>
 
-> *"I'm not here to just make things work — I'm here to know why they do."*
+> *"I'm not here to just make things work,  I'm here to know why they do."*
 
 </div>
 
@@ -14,7 +14,7 @@
 
 A Computer Science sophomore who treats learning like a main quest. My philosophy: **You must feel connected to the stuff you build.**
 
-I care less about how many things I've built and more about how deeply I understand them — the *why* behind every concept, the *how* beneath every abstraction. Whether it's low-level memory management in C++, the math inside a neural net, or why a compiler rejects your code — I want to understand it from the inside out.
+I care less about how many things I've built and more about how deeply I understand them, the *why* behind every concept, the *how* beneath every abstraction. Whether it's low-level memory management in C++, the math inside a neural net, or why a compiler rejects your code,  I want to understand it from the inside out.
 
 I also believe code and art aren't opposites. I bring the same attention to detail I'd put into a design into the systems I build.
 
