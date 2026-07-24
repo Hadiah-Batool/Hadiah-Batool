@@ -5,18 +5,18 @@
 <!-- ─── BANNER ─────────────────────────────────────────────── -->
 <div align="center">
   <a href="https://github.com/Hadiah-Batool">
-    <img src="assets/images/banner.svg" alt="Banner" width="100%" />
+    <img src="assets/images/banner.svg" alt="Banner" width="78%" />
   </a>
 </div>
 
 <!-- ─── STATS BADGES ──────────────────────────────────────── -->
 <div align="center">
 
-  <a href="https://api.github-star-counter.workers.dev/user/Hadiah-Batool">
+  <a href="https://github.com/Hadiah-Batool?tab=repositories">
     <img width="120px"
       alt="Stars"
       title="Stars Profile"
-      src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF2E92&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Hadiah-Batool" />
+      src="https://img.shields.io/github/stars/Hadiah-Batool/Hadiah-Batool?style=for-the-badge&logo=star&color=000000&labelColor=FF2E92&logoColor=ffffff&label=Stars" />
   </a>
 
   <a href="https://api.github-star-counter.workers.dev/user/Hadiah-Batool">
@@ -47,28 +47,23 @@
 ---
 
 <!-- ─── WHO AM I ───────────────────────────────────────────── -->
-<div align="center">
-  <img src="assets/images/whoami.png" width="220" alt="Who am I icon" />
-</div>
-
-<div align="center">
-
 ### Who Am I?
 
-</div>
-
-<div align="justify">
-
-A Computer Science sophomore who treats learning like a main quest. My philosophy: **you must feel connected to the stuff you build.**
-
-I care less about how many things I've built and more about how deeply I understand them — the *why* behind every concept, the *how* beneath every abstraction. Whether it's low-level memory management or front-end polish, I like knowing what’s happening under the hood.
-
-I also believe code and art aren't opposites. I bring the same attention to detail I'd put into a design into the systems I build.
-
-At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supabase — shipping full-stack projects front to back, with AI/ML next on the list once this stretch wraps up.
-
-**Quality over quantity. Always.**
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="34%" align="center">
+        <img src="assets/images/who-am-i.svg" width="180" alt="Who am I icon" />
+      </td>
+      <td width="66%" align="left">
+        A Computer Science sophomore who treats learning like a main quest. My philosophy: <b>you must feel connected to the stuff you build.</b><br/><br/>
+        I care less about how many things I've built and more about how deeply I understand them — the <i>why</i> behind every concept, the <i>how</i> beneath every abstraction. Whether it's low-level memory management or front-end polish, I like knowing what’s happening under the hood.<br/><br/>
+        I also believe code and art aren't opposites. I bring the same attention to detail I'd put into a design into the systems I build.<br/><br/>
+        At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supabase — shipping full-stack projects front to back, with AI/ML next on the list once this stretch wraps up.<br/><br/>
+        <b>Quality over quantity. Always.</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -79,10 +74,10 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
 
 | Status | Quest |
 |--------|-------|
-| `[ACTIVE]` | Deep in the web ecosystem this summer — React, Vite, Next.js, TypeScript, Supabase |
-| `[ACTIVE]` | Shipping full-stack projects front to back |
-| `[NEXT]` | Circling back to AI/ML — the math, the models, the meaning |
-| `[ONGOING]` | Learning how things break, so I know exactly why they work |
+| `[ACTIVE]` 🔥 | Deep in the web ecosystem this summer — React, Vite, Next.js, TypeScript, Supabase 🚀 |
+| `[ACTIVE]` ⚡ | Shipping full-stack projects front to back 🛠️ |
+| `[NEXT]` 🧠 | Circling back to AI/ML — the math, the models, the meaning 🤖 |
+| `[ONGOING]` 🎯 | Learning how things break, so I know exactly why they work 🔍 |
 
 </div>
 
@@ -142,7 +137,7 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
 **Creative**  
 <p>
   <a href="https://www.canva.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/canva/00C4CC" width="42" alt="Canva" title="Canva" />
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=ffffff" height="28" alt="Canva" title="Canva" />
   </a>
   <a href="https://www.aseprite.org" target="_blank">
     <img src="https://cdn.simpleicons.org/aseprite/7D929E" width="42" alt="Aseprite" title="Aseprite" />
@@ -154,7 +149,7 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
 
 <br/><br/>
 
-<img src="assets/icons/paintbrush.png" width="120" alt="Paintbrush icon" />
+<img src="assets/icons/paintbrush.svg" width="94" alt="Paintbrush icon" />
 
 </div>
 
@@ -165,40 +160,37 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
 <div align="center">
 
 <table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Stack</th>
-      <th>About</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Hadiah-Batool/Chrono_Rift"><b>Chrono_Rift</b></a></td>
-      <td><code>C++</code> <code>SFML</code> <code>POSIX</code></td>
-      <td>3-process turn-based RPG engine — shared memory IPC, deadlock-detection watchdog, signal handling</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Hadiah-Batool/DSA-Visualizer"><b>DSA-Visualizer</b></a></td>
-      <td><code>Python</code> <code>Pygame</code></td>
-      <td>Interactive DSA visualizer with custom pixel art — 45+ stars, 345K+ LinkedIn impressions</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Hashimk101/Indicium"><b>Indicium</b></a></td>
-      <td><code>Java</code> <code>JavaFX</code> <code>MySQL</code></td>
-      <td>Forensic case management system — SHA-256 auth, role-based access, audited admin panel</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Hashimk101/Smart-City-DS-Project"><b>Smart-City-DS-Project</b></a></td>
-      <td><code>C++</code></td>
-      <td>City simulation built with manual memory management, zero STL</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Hadiah-Batool/OOP_Project"><b>OOP_Project</b></a></td>
-      <td><code>C++</code></td>
-      <td>OOP coursework — inheritance, polymorphism, clean architecture</td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Hadiah-Batool/Chrono_Rift"><b>⚔️ Chrono_Rift</b></a><br/>
+      <code>C++</code> <code>SFML</code> <code>POSIX</code><br/>
+      3-process turn-based RPG engine — shared memory IPC, deadlock-detection watchdog, signal handling
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Hadiah-Batool/DSA-Visualizer"><b>🎨 DSA-Visualizer</b></a><br/>
+      <code>Python</code> <code>Pygame</code><br/>
+      Interactive DSA visualizer with custom pixel art — 45+ stars, 345K+ LinkedIn impressions
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Hashimk101/Indicium"><b>🧩 Indicium</b></a><br/>
+      <code>Java</code> <code>JavaFX</code> <code>MySQL</code><br/>
+      Forensic case management system — SHA-256 auth, role-based access, audited admin panel
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Hashimk101/Smart-City-DS-Project"><b>🏙️ Smart-City-DS-Project</b></a><br/>
+      <code>C++</code><br/>
+      City simulation built with manual memory management, zero STL
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <a href="https://github.com/Hadiah-Batool/OOP_Project"><b>🧠 OOP_Project</b></a><br/>
+      <code>C++</code><br/>
+      OOP coursework — inheritance, polymorphism, clean architecture
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -207,11 +199,15 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
 
 <!-- ─── CONTRIBUTIONS ──────────────────────────────────────── -->
 <div align="center">
-  <img src="assets/images/contributions.png" width="50%" alt="Contributions title" />
+  <img src="assets/images/contributions.svg" width="34%" alt="Contributions title" />
   <br/><br/>
 </div>
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hadiah-Batool&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF2E92&bg_color=transparent&radius=16&area_color=FF2E92&area=true&point=ffffff&line=FF2E92&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
+<div align="center">
+  <a href="https://github.com/caiquegomesdev/github-readme-activity-graph">
+    <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hadiah-Batool&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF2E92&bg_color=transparent&radius=14&area_color=FF2E92&area=true&point=ffffff&line=FF2E92&days=8&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true" alt="Contribution Graph" />
+  </a>
+</div>
 
 ---
 
@@ -219,11 +215,11 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
 
 <div align="center">
 
-<img src="https://github-readme-stats.demolab.com/api?username=Hadiah-Batool&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF2E92&icon_color=FF2E92&text_color=E6E6E6" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hadiah-Batool&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF2E92&icon_color=FF2E92&text_color=E6E6E6&cache_seconds=1800" alt="GitHub Stats" height="148"/>
 
-<img src="https://streak-stats.demolab.com/?user=Hadiah-Batool&theme=radical&hide_border=true&background=0D0D0D&ring=FF2E92&fire=FF2E92&currStreakLabel=FF2E92" alt="GitHub Streak" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Hadiah-Batool&theme=radical&hide_border=true&background=0D0D0D&ring=FF2E92&fire=FF2E92&currStreakLabel=FF2E92" alt="GitHub Streak" height="148"/>
 
-<img src="https://github-readme-stats.demolab.com/api/top-langs/?username=Hadiah-Batool&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF2E92&text_color=E6E6E6" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadiah-Batool&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF2E92&text_color=E6E6E6&cache_seconds=1800" alt="Top Languages" height="148"/>
 
 </div>
 
