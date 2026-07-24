@@ -154,7 +154,7 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
 
 <br/><br/>
 
-<img src="assets/icons/paintbrush.svg" width="90" alt="Paintbrush icon" />
+<img src="assets/icons/paintbrush.png" width="90" alt="Paintbrush icon" />
 
 </div>
 
