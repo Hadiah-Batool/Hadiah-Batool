@@ -3,9 +3,11 @@
 -->
 
 <!-- ─── BANNER ─────────────────────────────────────────────── -->
-<a href="https://github.com/Hadiah-Batool">
-  <img src="assets/images/Banner.svg" alt="Banner" style="width:100%; height:auto"/>
-</a>
+<div align="center">
+  <a href="https://github.com/Hadiah-Batool">
+    <img src="assets/images/Banner.svg" alt="Banner" width="100%" />
+  </a>
+</div>
 
 <!-- ─── STATS BADGES ──────────────────────────────────────── -->
 <div align="center">
@@ -37,19 +39,17 @@
 
 <!-- ─── TYPING SVG ─────────────────────────────────────────── -->
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF2E92&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Hadiah+%F0%9F%91%8B;CS+Sophomore+%40+FAST+NUCES;Building+across+the+web+stack+this+summer;Where+code+meets+craft." alt="Typing SVG" />
-
-<br/>
-
-> *"I'm not here to just make things work, I'm here to know why they do."*
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF2E92&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Hadiah+%F0%9F%91%8B;CS+Sophomore;Frontend+%2B+Fullstack+Builder;Learning+the+why+behind+the+how" alt="Typing SVG" />
+  <br/><br/>
+  <i>"I'm not here to just make things work, I'm here to know why they do."</i>
 </div>
 
 ---
 
 <!-- ─── WHO AM I ───────────────────────────────────────────── -->
-<img src="assets/images/who-am-i.svg" width="330" align="left">
+<div align="center">
+  <img src="assets/images/who-am-i.png" width="220" alt="Who am I icon" />
+</div>
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 A Computer Science sophomore who treats learning like a main quest. My philosophy: **you must feel connected to the stuff you build.**
 
-I care less about how many things I've built and more about how deeply I understand them — the *why* behind every concept, the *how* beneath every abstraction. Whether it's low-level memory management in C++, POSIX shared memory across processes, or why a build breaks, I want to understand it from the inside out.
+I care less about how many things I've built and more about how deeply I understand them — the *why* behind every concept, the *how* beneath every abstraction. Whether it's low-level memory management or front-end polish, I like knowing what’s happening under the hood.
 
 I also believe code and art aren't opposites. I bring the same attention to detail I'd put into a design into the systems I build.
 
@@ -71,12 +71,11 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
 
 </div>
 
-<br clear="left"/>
-
 ---
 
-<!-- ─── CURRENT MISSION ────────────────────────────────────── -->
 ## 🎯 Current Mission
+
+<div align="center">
 
 | Status | Quest |
 |--------|-------|
@@ -85,39 +84,53 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
 | `[NEXT]` | Circling back to AI/ML — the math, the models, the meaning |
 | `[ONGOING]` | Learning how things break, so I know exactly why they work |
 
+</div>
+
 ---
 
-<!-- ─── TECH STACK ─────────────────────────────────────────── -->
 ## 🛠️ Tech Stack
 
-**Web Ecosystem**
+<div align="center">
 
+**Web Ecosystem**  
 <img src="https://skillicons.dev/icons?i=react,vite,nextjs,typescript,nodejs,supabase,tailwind,vercel" />
 
-**Languages**
+<br/><br/>
 
+**Languages**  
 <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,php,bash" />
 
-**Databases & Tools**
+<br/><br/>
 
+**Databases & Tools**  
 <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,linux" />
 
-**Machine Learning**
+<br/><br/>
 
+**Machine Learning**  
 <img src="https://skillicons.dev/icons?i=py,pandas,sklearn" />
 
-**Creative**
+<br/><br/>
 
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva"/>
-&nbsp;&nbsp;
-<img height="50" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/aseprite.svg" title="Aseprite"/>
-&nbsp;&nbsp;
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="JavaFX"/>
+**Creative**  
+<a href="https://www.canva.com" target="_blank">
+  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=FF2E92" alt="Canva" />
+</a>
+<a href="https://www.aseprite.org" target="_blank">
+  <img src="https://img.shields.io/badge/Aseprite-000000?style=for-the-badge&logoColor=FF2E92" alt="Aseprite" />
+</a>
+<a href="https://openjfx.io" target="_blank">
+  <img src="https://img.shields.io/badge/JavaFX-000000?style=for-the-badge&logo=openjdk&logoColor=FF2E92" alt="JavaFX" />
+</a>
 
+<br/><br/>
+
+<img src="assets/icons/paintbrush.png" width="90" alt="Paintbrush icon" />
+
+</div>
 
 ---
 
-<!-- ─── PROJECTS ───────────────────────────────────────────── -->
 ## 🗂️ Featured Projects
 
 <div align="center">
@@ -165,20 +178,19 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
 
 <!-- ─── CONTRIBUTIONS ──────────────────────────────────────── -->
 <div align="center">
-  <img src="assets/images/Contributions.svg" width="50%">
+  <img src="assets/images/contributions.png" width="50%" alt="Contributions title" />
   <br/><br/>
 </div>
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hadiah-Batool&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF2E92&bg_color=transparent&radius=16&area_color=FF2E92&area=true&point=ffffff&line=FF2E92&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/Hadiah-Batool)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hadiah-Batool&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF2E92&bg_color=transparent&radius=16&area_color=FF2E92&area=true&point=ffffff&line=FF2E92&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
 
 ---
 
-<!-- ─── GITHUB STATS ───────────────────────────────────────── -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.demolab.com/api?username=Hadiah-Batool&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF2E92&icon_color=FF2E92&text_color=E6E6E6&ring_color=FF2E92" alt="Hadiah's GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.demolab.com/api?username=Hadiah-Batool&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF2E92&icon_color=FF2E92&text_color=E6E6E6" alt="GitHub Stats" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=Hadiah-Batool&theme=radical&hide_border=true&background=0D0D0D&ring=FF2E92&fire=FF2E92&currStreakLabel=FF2E92" alt="GitHub Streak" height="165"/>
 
@@ -206,7 +218,6 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
       alt="Email"
       title="My Email"/>
   </a>
-
 </div>
 
 <br/>
@@ -214,7 +225,5 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
 ---
 
 <div align="center">
-
-*Currently somewhere between a bug and a breakthrough.*
-
+  <i>Currently somewhere between a bug and a breakthrough.</i>
 </div>
