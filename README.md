@@ -108,13 +108,13 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
 
 **Creative**
 
-<a href="#">
+<a href="https://www.canva.com" target="_blank">
   <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=FF2E92" />
 </a>
-<a href="#">
+<a href="https://www.aseprite.org" target="_blank">
   <img src="https://img.shields.io/badge/Aseprite-000000?style=for-the-badge&logo=aseprite&logoColor=FF2E92" />
 </a>
-<a href="#">
+<a href="https://openjfx.io" target="_blank">
   <img src="https://img.shields.io/badge/JavaFX-000000?style=for-the-badge&logo=openjdk&logoColor=FF2E92" />
 </a>
 
