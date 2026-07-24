@@ -1,6 +1,44 @@
+<!--
+  GitHub: https://github.com/Hadiah-Batool
+-->
+
+<!-- ─── BANNER ─────────────────────────────────────────────── -->
+<a href="https://github.com/Hadiah-Batool">
+  <img src="assets/images/Banner.svg" alt="Banner" style="width:100%; height:auto"/>
+</a>
+
+<!-- ─── STATS BADGES ──────────────────────────────────────── -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF2E92&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Hadiah+%F0%9F%91%8B;CS+Sophomore+%40+FAST+NUCES;Building+across+the+web+stack+this+summer;Where+code+meets+craft." alt="Typing SVG" />
+  <a href="https://api.github-star-counter.workers.dev/user/Hadiah-Batool">
+    <img width="120px"
+      alt="Stars"
+      title="Stars Profile"
+      src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF2E92&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Hadiah-Batool" />
+  </a>
+
+  <a href="https://api.github-star-counter.workers.dev/user/Hadiah-Batool">
+    <img width="111px"
+      alt="Forks"
+      title="Forks"
+      src="https://custom-icon-badges.demolab.com/github/forks/Hadiah-Batool/Hadiah-Batool?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF2E92" />
+  </a>
+
+  <a href="https://github.com/Hadiah-Batool?tab=followers">
+    <img width="150px"
+      alt="Followers"
+      title="GitHub Followers"
+      src="https://custom-icon-badges.demolab.com/github/followers/Hadiah-Batool?color=000000&labelColor=FF2E92&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+  </a>
+
+</div>
+
+<br/>
+
+<!-- ─── TYPING SVG ─────────────────────────────────────────── -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF2E92&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Hadiah+%F0%9F%91%8B;CS+Sophomore+%40+FAST+NUCES;Building+across+the+web+stack+this+summer;Where+code+meets+craft." alt="Typing SVG" />
 
 <br/>
 
@@ -10,6 +48,7 @@
 
 ---
 
+<!-- ─── WHO AM I ───────────────────────────────────────────── -->
 <img src="assets/images/who-am-i.svg" width="330" align="left">
 
 <div align="center">
@@ -36,6 +75,7 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
 
 ---
 
+<!-- ─── CURRENT MISSION ────────────────────────────────────── -->
 ## 🎯 Current Mission
 
 | Status | Quest |
@@ -47,6 +87,7 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
 
 ---
 
+<!-- ─── TECH STACK ─────────────────────────────────────────── -->
 ## 🛠️ Tech Stack
 
 **Web Ecosystem**
@@ -67,40 +108,75 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
 
 **Creative**
 
-![JavaFX](https://img.shields.io/badge/javafx-000000.svg?style=for-the-badge&logo=javafx&logoColor=FF2E92)
-![Aseprite](https://img.shields.io/badge/Aseprite-000000?style=for-the-badge&logo=Aseprite&logoColor=FF2E92)
+<a href="#">
+  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=FF2E92" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Aseprite-000000?style=for-the-badge&logo=aseprite&logoColor=FF2E92" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/JavaFX-000000?style=for-the-badge&logo=openjdk&logoColor=FF2E92" />
+</a>
 
 ---
 
-## Featured Projects
+<!-- ─── PROJECTS ───────────────────────────────────────────── -->
+## 🗂️ Featured Projects
+
+<div align="center">
 
 <table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.demolab.com/api/pin/?username=Hadiah-Batool&repo=Chrono_Rift&theme=radical&bg_color=0D0D0D&title_color=FF2E92&text_color=E6E6E6&icon_color=FF2E92&hide_border=true" />
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.demolab.com/api/pin/?username=Hadiah-Batool&repo=DSA-Visualizer&theme=radical&bg_color=0D0D0D&title_color=FF2E92&text_color=E6E6E6&icon_color=FF2E92&hide_border=true" />
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.demolab.com/api/pin/?username=Hashimk101&repo=Indicium&theme=radical&bg_color=0D0D0D&title_color=FF2E92&text_color=E6E6E6&icon_color=FF2E92&hide_border=true" />
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.demolab.com/api/pin/?username=Hashimk101&repo=Smart-City-DS-Project&theme=radical&bg_color=0D0D0D&title_color=FF2E92&text_color=E6E6E6&icon_color=FF2E92&hide_border=true" />
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.demolab.com/api/pin/?username=Hadiah-Batool&repo=OOP_Project&theme=radical&bg_color=0D0D0D&title_color=FF2E92&text_color=E6E6E6&icon_color=FF2E92&hide_border=true" />
-</td>
-<td width="50%"></td>
-</tr>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Stack</th>
+      <th>About</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Hadiah-Batool/Chrono_Rift"><b>Chrono_Rift</b></a></td>
+      <td><code>C++</code> <code>SFML</code> <code>POSIX</code></td>
+      <td>3-process turn-based RPG engine — shared memory IPC, deadlock-detection watchdog, signal handling</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Hadiah-Batool/DSA-Visualizer"><b>DSA-Visualizer</b></a></td>
+      <td><code>Python</code> <code>Pygame</code></td>
+      <td>Interactive DSA visualizer with custom pixel art — 45+ stars, 345K+ LinkedIn impressions</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Hashimk101/Indicium"><b>Indicium</b></a></td>
+      <td><code>Java</code> <code>JavaFX</code> <code>MySQL</code></td>
+      <td>Forensic case management system — SHA-256 auth, role-based access, audited admin panel</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Hashimk101/Smart-City-DS-Project"><b>Smart-City-DS-Project</b></a></td>
+      <td><code>C++</code></td>
+      <td>City simulation built with manual memory management, zero STL</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Hadiah-Batool/OOP_Project"><b>OOP_Project</b></a></td>
+      <td><code>C++</code></td>
+      <td>OOP coursework — inheritance, polymorphism, clean architecture</td>
+    </tr>
+  </tbody>
 </table>
+
+</div>
 
 ---
 
+<!-- ─── CONTRIBUTIONS ──────────────────────────────────────── -->
+<div align="center">
+  <img src="assets/images/Contributions.svg" width="50%">
+  <br/><br/>
+</div>
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hadiah-Batool&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF2E92&bg_color=transparent&radius=16&area_color=FF2E92&area=true&point=ffffff&line=FF2E92&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/Hadiah-Batool)
+
+---
+
+<!-- ─── GITHUB STATS ───────────────────────────────────────── -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -113,18 +189,30 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
 
 </div>
 
-<div align="center">
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hadiah-Batool&theme=react-dark&bg_color=0D0D0D&color=FF2E92&line=FF2E92&point=FFFFFF&hide_border=true" alt="Contribution Graph" width="850"/>
+<!-- ─── CONNECT ────────────────────────────────────────────── -->
+<div align="center">
+  <strong>You can Click here</strong>
+  <br/><br/>
+
+  <a href="https://linkedin.com/in/hadiah-batool" target="_blank">
+    <img width="110px"
+      src="https://img.shields.io/badge/LinkedIn-FF2E92?style=for-the-badge&logo=linkedin&logoColor=000000"
+      alt="LinkedIn"
+      title="My LinkedIn"/>
+  </a>
+
+  <a href="https://mail.google.com/mail/?view=cm&to=hadiahbatoolwork@gmail.com" target="_blank">
+    <img width="97px"
+      src="https://img.shields.io/badge/Gmail-FF2E92?style=for-the-badge&logo=gmail&logoColor=000000"
+      alt="Email"
+      title="My Email"/>
+  </a>
 
 </div>
 
----
-
-## 🌐 Find Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF2E92)](https://linkedin.com/in/hadiah-batool)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF2E92)](mailto:hadiahbatoolwork@gmail.com)
+<br/>
 
 ---
 
