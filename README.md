@@ -5,7 +5,7 @@
 <!-- ─── BANNER ─────────────────────────────────────────────── -->
 <div align="center">
   <a href="https://github.com/Hadiah-Batool">
-    <img src="assets/images/banner.svg" alt="Banner" width="78%" />
+    <img src="assets/images/banner.svg" alt="Banner" width="50%" />
   </a>
 </div>
 
@@ -53,7 +53,7 @@
   <table>
     <tr>
       <td width="34%" align="center">
-        <img src="assets/images/who-am-i.svg" width="180" alt="Who am I icon" />
+        <img src="assets/images/whoami.png" width="180" alt="Who am I icon" />
       </td>
       <td width="66%" align="left">
         A Computer Science sophomore who treats learning like a main quest. My philosophy: <b>you must feel connected to the stuff you build.</b><br/><br/>
@@ -149,7 +149,7 @@
 
 <br/><br/>
 
-<img src="assets/icons/paintbrush.svg" width="94" alt="Paintbrush icon" />
+<img src="assets/icons/paintbrush.png" width="94" alt="Paintbrush icon" />
 
 </div>
 
@@ -199,7 +199,7 @@
 
 <!-- ─── CONTRIBUTIONS ──────────────────────────────────────── -->
 <div align="center">
-  <img src="assets/images/contributions.svg" width="34%" alt="Contributions title" />
+  <img src="assets/images/contributions.png" width="34%" alt="Contributions title" />
   <br/><br/>
 </div>
 
