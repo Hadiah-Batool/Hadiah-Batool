@@ -48,7 +48,7 @@
 
 <!-- ─── WHO AM I ───────────────────────────────────────────── -->
 <div align="center">
-  <img src="assets/images/who-am-i.png" width="220" alt="Who am I icon" />
+  <img src="assets/images/who-am-i.svg" width="220" alt="Who am I icon" />
 </div>
 
 <div align="center">
@@ -93,39 +93,68 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
 <div align="center">
 
 **Web Ecosystem**  
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,typescript,nodejs,supabase,tailwind,vercel" />
+<p>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="42" alt="React" title="React" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" width="42" alt="Vite" title="Vite" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="42" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="42" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="42" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="42" alt="Supabase" title="Supabase" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="42" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="42" alt="Vercel" title="Vercel" />
+</p>
 
 <br/><br/>
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,php,bash" />
+<p>
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="42" alt="C" title="C" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="42" alt="C++" title="C++" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="42" alt="Python" title="Python" />
+  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="42" alt="Java" title="Java" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" width="42" alt="PHP" title="PHP" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="42" alt="Bash" title="Bash" />
+</p>
 
 <br/><br/>
 
 **Databases & Tools**  
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,linux" />
+<p>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="42" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/git/F05032" width="42" alt="Git" title="Git" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="42" alt="Linux" title="Linux" />
+</p>
 
 <br/><br/>
 
 **Machine Learning**  
-<img src="https://skillicons.dev/icons?i=py,pandas,sklearn" />
+<p>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="42" alt="Python" title="Python" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="42" alt="Pandas" title="Pandas" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="42" alt="Scikit-learn" title="Scikit-learn" />
+</p>
 
 <br/><br/>
 
 **Creative**  
-<a href="https://www.canva.com" target="_blank">
-  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=FF2E92" alt="Canva" />
-</a>
-<a href="https://www.aseprite.org" target="_blank">
-  <img src="https://img.shields.io/badge/Aseprite-000000?style=for-the-badge&logoColor=FF2E92" alt="Aseprite" />
-</a>
-<a href="https://openjfx.io" target="_blank">
-  <img src="https://img.shields.io/badge/JavaFX-000000?style=for-the-badge&logo=openjdk&logoColor=FF2E92" alt="JavaFX" />
-</a>
+<p>
+  <a href="https://www.canva.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/canva/00C4CC" width="42" alt="Canva" title="Canva" />
+  </a>
+  <a href="https://www.aseprite.org" target="_blank">
+    <img src="https://cdn.simpleicons.org/aseprite/7D929E" width="42" alt="Aseprite" title="Aseprite" />
+  </a>
+  <a href="https://openjfx.io" target="_blank">
+    <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="42" alt="JavaFX" title="JavaFX" />
+  </a>
+</p>
 
 <br/><br/>
 
-<img src="assets/icons/paintbrush.png" width="90" alt="Paintbrush icon" />
+<img src="assets/icons/paintbrush.svg" width="90" alt="Paintbrush icon" />
 
 </div>
 
@@ -178,7 +207,7 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
 
 <!-- ─── CONTRIBUTIONS ──────────────────────────────────────── -->
 <div align="center">
-  <img src="assets/images/contributions.png" width="50%" alt="Contributions title" />
+  <img src="assets/images/contributions.svg" width="50%" alt="Contributions title" />
   <br/><br/>
 </div>
 

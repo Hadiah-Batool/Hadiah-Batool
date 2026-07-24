@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="Who am I">
+  <rect width="320" height="320" rx="28" fill="#111111"/>
+  <circle cx="160" cy="128" r="62" fill="#FF2E92"/>
+  <rect x="72" y="210" width="176" height="62" rx="31" fill="#2A2A2A"/>
+  <text x="160" y="252" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="600">Who Am I</text>
+</svg>

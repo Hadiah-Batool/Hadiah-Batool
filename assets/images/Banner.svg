@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-label="Hadiah Batool Banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D0D0D"/>
+      <stop offset="100%" stop-color="#1A1A1A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" fill="url(#bg)" rx="20"/>
+  <text x="70" y="120" fill="#FF2E92" font-family="'Segoe UI', Arial, sans-serif" font-size="54" font-weight="700">Hadiah Batool</text>
+  <text x="70" y="175" fill="#FFFFFF" font-family="'Segoe UI', Arial, sans-serif" font-size="30">Frontend + Fullstack Builder</text>
+</svg>
