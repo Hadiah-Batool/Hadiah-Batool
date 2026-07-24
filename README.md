@@ -5,7 +5,7 @@
 <!-- ─── BANNER ─────────────────────────────────────────────── -->
 <div align="center">
 <a href="https://github.com/Hadiah-Batool">
-<img src="assets/images/banner.svg" alt="Banner" width="55%"/>
+<img src="assets/images/banner.svg" alt="Banner" width="100%"/>
 </a>
 </div>
 
