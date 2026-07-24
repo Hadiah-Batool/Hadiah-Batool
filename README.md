@@ -5,7 +5,7 @@
 <!-- ─── BANNER ─────────────────────────────────────────────── -->
 <div align="center">
   <a href="https://github.com/Hadiah-Batool">
-    <img src="assets/images/Banner.svg" alt="Banner" width="100%" />
+    <img src="assets/images/banner.svg" alt="Banner" width="100%" />
   </a>
 </div>
 
@@ -48,7 +48,7 @@
 
 <!-- ─── WHO AM I ───────────────────────────────────────────── -->
 <div align="center">
-  <img src="assets/images/who-am-i.svg" width="220" alt="Who am I icon" />
+  <img src="assets/images/whoami.png" width="220" alt="Who am I icon" />
 </div>
 
 <div align="center">
@@ -154,7 +154,7 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
 
 <br/><br/>
 
-<img src="assets/icons/paintbrush.png" width="90" alt="Paintbrush icon" />
+<img src="assets/icons/paintbrush.png" width="120" alt="Paintbrush icon" />
 
 </div>
 
@@ -207,7 +207,7 @@ At the moment I'm deep in the web ecosystem — React, Next.js, TypeScript, Supa
 
 <!-- ─── CONTRIBUTIONS ──────────────────────────────────────── -->
 <div align="center">
-  <img src="assets/images/contributions.svg" width="50%" alt="Contributions title" />
+  <img src="assets/images/contributions.png" width="50%" alt="Contributions title" />
   <br/><br/>
 </div>
 
