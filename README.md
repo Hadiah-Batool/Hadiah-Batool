@@ -4,7 +4,7 @@
 
 <!-- ─── BANNER ─────────────────────────────────────────────── -->
 <a href="https://github.com/Hadiah-Batool">
-  <img src="assets/images/banner.svg" alt="Banner" style="width:40%; height:auto"/>
+  <img src="assets/images/banner.svg" alt="Banner" style="width:100%; height:40%"/>
 </a>
 
 <div align="center">
