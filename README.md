@@ -4,7 +4,7 @@
 
 <!-- ─── BANNER ─────────────────────────────────────────────── -->
 <a href="https://github.com/Hadiah-Batool">
-  <img src="assets/images/banner.svg" alt="Banner" style="width:100%; height:auto"/>
+  <img src="assets/images/banner.svg" alt="Banner" style="width:40%; height:auto"/>
 </a>
 
 <div align="center">
@@ -138,14 +138,11 @@ At the moment I'm deep in the `web ecosystem` — React, Next.js, TypeScript, Su
 
 `Creative`
 <p>
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="38" alt="Canva" title="Canva" />
   <img src="https://cdn.simpleicons.org/aseprite/7D929E" width="38" alt="Aseprite" title="Aseprite" />
   <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="38" alt="JavaFX" title="JavaFX" />
 </p>
 
-    </td>
-    <!-- Stats Right -->
-    <td valign="top" width="52%">
+
 
 **📊 GitHub Stats**
 
