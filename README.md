@@ -111,6 +111,7 @@ At the moment I'm deep in the `web ecosystem` — React, Next.js, TypeScript, Su
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" alt="JavaScript" title="JavaScript" />
 <img src="https://cdn.simpleicons.org/php/777BB4" width="36" alt="PHP" title="PHP" />
 <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="36" alt="Bash" title="Bash" />
+<img src="https://skillicons.dev/icons?i=assembly" width="36" alt="Assembly (MASM)" title="Assembly (MASM)" />
 </p>
 
 `Databases & Tools`
@@ -120,6 +121,7 @@ At the moment I'm deep in the `web ecosystem` — React, Next.js, TypeScript, Su
 <img src="https://cdn.simpleicons.org/git/F05032" width="36" alt="Git" title="Git" />
 <img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" alt="GitHub" title="GitHub" />
 <img src="https://cdn.simpleicons.org/linux/FCC624" width="36" alt="Linux" title="Linux" />
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="36" alt="Docker" title="Docker" />
 </p>
 
 `Machine Learning`
