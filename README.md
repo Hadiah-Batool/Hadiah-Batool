@@ -142,11 +142,11 @@ At the moment I'm deep in the `web ecosystem` — React, Next.js, TypeScript, Su
 
 **📊 GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hadiah-Batool&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF2E92&icon_color=FF2E92&text_color=E6E6E6&cache_seconds=1800" alt="GitHub Stats" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Hadiah-Batool&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF2E92&icon_color=FF2E92&text_color=E6E6E6&cache_seconds=1800" alt="GitHub Stats" width="100%"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hadiah-Batool&theme=dark&background=0D0D0D&ring=FF2E92&fire=FF2E92&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF2E92&sideLabels=FF2E92&dates=FFFFFF)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadiah-Batool&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF2E92&text_color=E6E6E6&cache_seconds=1800" alt="Top Languages" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hadiah-Batool&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF2E92&text_color=E6E6E6&cache_seconds=1800" alt="Top Languages" width="100%"/>
 
 </td>
 </tr>
